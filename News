@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Daily News</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Today's Top News</h1>
+    <p>Your daily dose of fresh headlines</p>
+  </header>
+
+  <section class="news-section">
+    <div class="news-card">
+      <h2>🌍 Global Update</h2>
+      <p>World leaders meet for a climate summit to discuss urgent action on global warming.</p>
+    </div>
+    <div class="news-card">
+      <h2>⚽ Sports Highlight</h2>
+      <p>Argentina secures a thrilling win in Copa America semi-finals against Colombia.</p>
+    </div>
+    <div class="news-card">
+      <h2>📱 Tech Trends</h2>
+      <p>New smartphone launch stuns the market with its AI-powered camera features.</p>
+    </div>
+    <div class="news-card">
+      <h2>💼 Business Buzz</h2>
+      <p>Stock markets rise as inflation slows down, giving investors a reason to cheer.</p>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Daily News. All rights reserved.</p>
+  </footer>
+</body>
+</html>
